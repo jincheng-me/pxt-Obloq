@@ -13,7 +13,7 @@ OBLOQ - IoT Module
 * [License](#license)
 
 ## URL
-project URL: ```https://github.com/DFRobot/pxt-Obloq```
+project URL: ```https://github.com/jincheng-me/pxt-Obloq```
 
 ## Summary
 Internet of things is the embedded system technology, mobile technology, web technology all together, the soul of its development is based on the user experience as the core, is characterized with hardware, network, platform, service and other different stakeholders in the field of industry cooperation or fusion directly.
@@ -24,20 +24,20 @@ Board firmware upgrade switch, easy to upgrade the firmware.
 ## Blocks
 
 ### MQTT
-![image](https://github.com/DFRobot/pxt-Obloq/blob/master/image/MQTT.png)
+![image](https://github.com/jincheng-me/pxt-Obloq/blob/master/image/MQTT.png)
 
 
 ## Example
 
 ### MQTT
-![image](https://github.com/DFRobot/pxt-Obloq/blob/master/image/MQTTDemo.png)
+![image](https://github.com/jincheng-me/pxt-Obloq/blob/master/image/MQTTDemo.png)
 
-get code: ```https://github.com/DFRobot/pxt-Obloq/blob/master/mqtttest.ts```
+get code: ```https://github.com/jincheng-me/pxt-Obloq/blob/master/mqtttest.ts```
 
 Multiple services：
-![image](https://github.com/DFRobot/pxt-Obloq/blob/master/image/MQTTMoreDemo.png)
+![image](https://github.com/jincheng-me/pxt-Obloq/blob/master/image/MQTTMoreDemo.png)
 
-get code: ```https://github.com/DFRobot/pxt-Obloq/blob/master/mqttMoretest.ts```
+get code: ```https://github.com/jincheng-me/pxt-Obloq/blob/master/mqttMoretest.ts```
 
 Get the iot of things platform: [East IoT](http://iot.dfrobot.com.cn/).
 
@@ -50,5 +50,5 @@ MIT
 * for PXT/microbit
 (The metadata above is needed for package search.)
 ```package
-Obloq=github:DFRobot/pxt-Obloq
+Obloq=github:jincheng-me/pxt-Obloq
 ```
